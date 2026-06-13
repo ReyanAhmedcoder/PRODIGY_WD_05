@@ -1,0 +1,12 @@
+{
+  "name": "prodigy-wd-05",
+  "version": "1.0.0",
+  "description": "Static weather dashboard for PRODIGY_WD_05.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server . -c-1",
+    "serve": "npx http-server . -c-1"
+  },
+  "author": "Reyan Ahmed",
+  "license": "MIT"
+}
